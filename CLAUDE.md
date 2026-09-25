@@ -1,5 +1,7 @@
 # CLAUDE.md — moto-mcp
 
+@.claude/PLATFORM-RULES.md
+
 ## What this repo is
 
 An **independent open-source** Model Context Protocol server (Python). Exposes vehicle telemetry to LLMs as **read-only** tools. Runs on the Raspi 5, on the same machine as `moto-linux-node`, but is a separate repo. Purpose: so other DIY vehicle/motorcycle projects can use it too, and it serves as an org showcase.
